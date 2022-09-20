@@ -7,7 +7,7 @@
 A tech enthusiast always motivated to learn, gain new skills and continuously improve myself. As a developer, besides problem solving and overcoming obstacles, I love interacting with my team and doing something fun. I have years of experiences of different fields before I finally decided to get into web development, something I was always passionate about.
 
 - 🌍  I'm based in Stockholm
-- ✉️  You can contact me at [syed.hassan@appliedtechnology.se] || [ramishshah93@gmail.com](mailto:ramishshah93@gmail.com) (syed.hassan@appliedtechnology.se)
+- ✉️  You can contact me at [syed.hassan@appliedtechnology.se] || [ramishshah93@gmail.com](mailto:ramishshah93@gmail.com) (mailto:syed.hassan@appliedtechnology.se)
 - 🧠  I'm learning Go
 - ⚡  noob CSGO player 😁
 
