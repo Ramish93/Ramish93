@@ -9,7 +9,7 @@ A tech enthusiast always motivated to learn, gain new skills and continuously im
 - 🌍  I'm based in Stockholm
 - ✉️  You can contact me at syed.hassan@appliedtechnology.se || [ramishshah93@gmail.com](mailto:ramishshah93@gmail.com)
 - 🧠  I'm learning Go
-- ⚡  noob CSGO player 😁
+- ⚡  noob COD player 😁
 
 ### Skills
 
