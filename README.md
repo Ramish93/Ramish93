@@ -2,14 +2,14 @@
 
 # My name is Syed Ramish
 
-## Full stack JavaScript Developer with skills in Python and Golang.
+## Full stack JavaScript/TypeScript Developer.
 
 A tech enthusiast always motivated to learn, gain new skills and continuously improve myself. As a developer, besides problem solving and overcoming obstacles, I love interacting with my team and doing something fun. I have years of experiences of different fields before I finally decided to get into web development, something I was always passionate about.
 
-- 🌍  I'm based in Stockholm
+- 🌍  I'm based in Stockholm.
 - ✉️  You can contact me at syed.hassan@appliedtechnology.se || [ramishshah93@gmail.com](mailto:ramishshah93@gmail.com)
-- 🧠  I'm learning Go
-- ⚡  noob COD player 😁
+- 🧠  I'm learning Python.
+- ⚡  noob COD player 😁.
 
 ### Skills
 
